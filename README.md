@@ -2,6 +2,9 @@
 
 ![Profile Banner](https://github.com/meets2506/meets2506/blob/main/Manager%20Marketing.jpg)
 
+## 🚀 About Me  
+
+I am passionate about **building scalable applications, developing efficient APIs, and optimizing data workflows**. With expertise in **Vue.js, React.js, Laravel, Python, and AWS**, I specialize in **solving complex engineering problems** and creating **high-performance software solutions**.  
 
 🎓 **Education:**  
 - **M.S. in Computer Science** | CSULB | GPA: 3.5/4  
