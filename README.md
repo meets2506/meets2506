@@ -1,5 +1,7 @@
-# Hi there, I'm Meet Shah 👋  
-💻 **Full Stack Developer | Data Engineer | Software Engineer**  
+
+
+![Profile Banner](https://github.com/meets2506/meets2506/blob/main/Manager%20Marketing.jpg)
+
 
 🎓 **Education:**  
 - **M.S. in Computer Science** | CSULB | GPA: 3.5/4  
