@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Meet Shah 👋  
+💻 **Full Stack Developer | Data Engineer | Software Engineer**  
 
-<!--
-**meets2506/meets2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education:**  
+- **M.S. in Computer Science** | CSULB | GPA: 3.5/4  
+- **B.E. in Computer Engineering** | Gujarat Technological University | GPA: 3.69/4  
 
-Here are some ideas to get you started:
+🌍 **Location:** Los Angeles, CA (Open to Relocate)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact:**  
+- 📧 Email: [meet2506@outlook.com](mailto:meet2506@outlook.com)  
+- 🔗 LinkedIn: [linkedin.com/in/meet-shah](https://www.linkedin.com/in/meet-shah)  
+- 🌐 Portfolio: **Coming Soon** 🚀  
+
+🚀 **Tech Stack:**  
+- **Frontend:** Vue.js, React.js, JavaScript, HTML, CSS  
+- **Backend:** PHP (Laravel), Python (Django, Flask), Node.js  
+- **Database:** MySQL, PostgreSQL, Microsoft SQL Server, MongoDB  
+- **Cloud & DevOps:** AWS, Linode, Docker, Kubernetes  
+- **Tools:** Git, Jenkins, Jira, VS Code, IntelliJ  
+
+🛠 **Projects:**  
+- **ResourceHub:** A team management app built with **React.js, Flask, PostgreSQL**  
+- **Medical Fraud Detection:** Built with **Python, Flask, MySQL**, improved fraud detection accuracy by 35%  
+- **WaterWise IoT Device:** Built with **ESP32, C++, Django**, enabling real-time monitoring  
+
+📊 **GitHub Stats:**  
+![Meet Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meets2506&show_icons=true&theme=tokyonight)  
+
+⭐ **Fun Fact:** I love exploring new tech and solving real-world problems with code!  
