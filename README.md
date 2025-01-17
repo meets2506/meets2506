@@ -75,7 +75,7 @@ I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate a
 ## 🤝 Let's Connect!  
 
 📧 **Email:** [meet2506@outlook.com](mailto:meet2506@outlook.com)  
-🔗 **LinkedIn:** [linkedin.com/in/meet-shah](https://www.linkedin.com/in/meet-shah)  
+🔗 **LinkedIn:** [linkedin.com/in/meet-shah](https://www.linkedin.com/in/meet-s-shah)  
 
 ---
 
