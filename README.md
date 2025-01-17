@@ -9,7 +9,6 @@ I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate a
 🌍 **Location:** Los Angeles, CA (Open to Relocate)  
 🌱 **Currently Learning:** Cloud Security, Advanced Machine Learning  
 📬 **How to reach me:** [meet2506@outlook.com](mailto:meet2506@outlook.com)  
-📄 **Check out my experiences:** [Resume](#)  
 
 ---
 
@@ -71,16 +70,6 @@ I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate a
 - Engineered a **smart water monitoring system** with real-time analytics.  
 - Integrated **Wi-Fi connectivity and cloud-based data handling**.  
 
-📌 *Check out my repositories for more projects!*  
-
----
-
-## 📊 GitHub Stats  
-
-![Meet Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meets2506&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meets2506&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=meets2506&theme=tokyonight)  
-
 ---
 
 ## 🤝 Let's Connect!  
@@ -89,8 +78,5 @@ I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate a
 🔗 **LinkedIn:** [linkedin.com/in/meet-shah](https://www.linkedin.com/in/meet-shah)  
 
 ---
-
-🚀 *Feel free to explore my repositories and collaborate with me!* Thanks for visiting! ✨  
-
 
 ⭐ **Fun Fact:** I love exploring new tech and solving real-world problems with code!  
