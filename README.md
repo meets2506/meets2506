@@ -7,7 +7,9 @@
 I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate about **building scalable applications, developing efficient APIs, and optimizing data workflows**. With expertise in **Vue.js, React.js, Laravel, Python, and AWS**, I specialize in **solving complex engineering problems** and **creating high-performance software solutions**.
 
 🌍 **Location:** Los Angeles, CA (Open to Relocate)  
+
 🌱 **Currently Learning:** Cloud Security, Advanced Machine Learning  
+
 📬 **How to reach me:** [meet2506@outlook.com](mailto:meet2506@outlook.com)  
 
 ---
