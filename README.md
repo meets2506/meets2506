@@ -4,11 +4,10 @@
 
 ## 🚀 About Me  
 
-I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate about **building scalable applications, developing efficient APIs, and optimizing data workflows**. With expertise in **Vue.js, React.js, Laravel, Python, and AWS**, I specialize in **solving complex engineering problems** and **creating high-performance software solutions**.
+I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate about **building scalable applications, developing efficient APIs, and optimizing data workflows**., I specialize in **solving complex engineering problems** and **creating high-performance software solutions**.
 
-🌍 **Location:** Los Angeles, CA (Open to Relocate)  
-
-🌱 **Currently Learning:** Cloud Security, Advanced Machine Learning  
+🌍 **Location:** Los Angeles, CA 
+🌱 **Currently Learning:** Advanced Machine Learning  
 
 📬 **How to reach me:** [meet2506@outlook.com](mailto:meet2506@outlook.com)  
 
@@ -31,16 +30,13 @@ I am a **Full Stack Developer | Data Engineer | Software Engineer** passionate a
 ## 🛠 Tech Stack  
 
 ### 🚀 Languages & Databases  
-- Java, Python, R, Rust, JavaScript, PHP, HTML, CSS  
+- Java, Python, R, JavaScript, HTML, CSS  
 - MongoDB, PostgreSQL, MySQL, Microsoft SQL Server, C, C++  
 
 ### ⚡ Frameworks & Libraries  
-- Laravel, React.js, Vue.js, Node.js, Flask, Django  
-- Pandas, NumPy, Matplotlib, PyTorch, TensorFlow, Selenium, Postman  
-- JUnit, TestNG, PyTest, SonarQube, Cucumber  
+- Laravel, React.js, Flask, Django  
+- Pandas, NumPy, Matplotlib, PyTorch, TensorFlow,
 
-### ☁ Cloud & DevOps  
-- AWS, Linode, Kubernetes, Docker, Jenkins, Kafka  
 
 ### 🛠 Developer Tools  
 - Git, GitHub, Jira, Terraform, Power BI, VS Code, IntelliJ, PyCharm, Eclipse  
